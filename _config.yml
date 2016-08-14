@@ -1,0 +1,14 @@
+layout_spectrum: 0.9677150435745716
+typography_spectrum: 0.9514845376834273
+color:
+  brandStrength: 0.39745128038339317
+  lightness: 0.20735185174271464
+  saturation: 0.6602208320982754
+  rhythmicContrast: 0.7746969403233379
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: 'Startup Reality '
